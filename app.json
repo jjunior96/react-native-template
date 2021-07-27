@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "react-native-template",
+    "slug": "react-native-template",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "react-native-template"
+}
